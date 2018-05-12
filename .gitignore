@@ -1,0 +1,13 @@
+/.apt_generated/
+.classpath
+.project
+.settings
+target/
+target
+/target
+/target/
+.factorypath
+/.springBeans
+.DS_Store
+pom.xml.*
+*.apt_generated/
